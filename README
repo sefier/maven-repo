@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=cn.sxjkyy -DartifactId=aliyun-openservices -Dversion=1.2.3 -Dpackaging=jar -Dfile=./aliyun-openservices-1.2.3.jar -DlocalRepositoryPath=./
