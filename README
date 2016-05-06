@@ -18,3 +18,4 @@ mvn install:install-file -DgroupId=cn.sxjkyy.3rd -DartifactId=fastjson -Dversion
 mvn install:install-file -DgroupId=cn.sxjkyy.3rd -DartifactId=jedis -Dversion=2.4.2 -Dpackaging=jar -Dfile=./jedis-2.4.2.jar  -DlocalRepositoryPath=./
 mvn install:install-file -DgroupId=cn.sxjkyy.3rd -DartifactId=fluent-hc -Dversion=4.3.5 -Dpackaging=jar -Dfile=./fluent-hc-4.3.5.jar  -DlocalRepositoryPath=./
 mvn install:install-file -DgroupId=cn.sxjkyy.3rd -DartifactId=jedis -Dversion=2.8.1 -Dpackaging=jar -Dfile=/Users/thomson/Documents/workspace/maven-repo/jedis-2.8.1.jar -DlocalRepositoryPath=/Users/thomson/Documents/workspace/maven-repo
+mvn install:install-file -DgroupId=cn.sxjkyy.3rd -DartifactId=spymemcached -Dversion=2.8.4 -Dpackaging=jar -Dfile=/Users/thomson/Documents/workspace/maven-repo/spymemcached-2.8.4.jar -DlocalRepositoryPath=/Users/thomson/Documents/workspace/maven-repo
